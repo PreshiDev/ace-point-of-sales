@@ -1,0 +1,67 @@
+c:\users\precious\documents\visual studio 2015\Projects\POS second idea\POS second idea\obj\Debug\POS second idea.vbprojResolveAssemblyReference.cache
+c:\users\precious\documents\visual studio 2015\Projects\POS second idea\POS second idea\obj\Debug\POS_second_idea.Form1.resources
+c:\users\precious\documents\visual studio 2015\Projects\POS second idea\POS second idea\obj\Debug\POS_second_idea.Resources.resources
+c:\users\precious\documents\visual studio 2015\Projects\POS second idea\POS second idea\obj\Debug\POS second idea.vbproj.GenerateResource.Cache
+C:\Users\Precious\documents\visual studio 2015\Projects\POS second idea\POS second idea\obj\Debug\POS_second_idea.Dashboard2.resources
+C:\Users\Precious\documents\visual studio 2015\Projects\POS second idea\POS second idea\obj\Debug\POS_second_idea.Login.resources
+C:\Users\Precious\documents\visual studio 2015\Projects\POS second idea\POS second idea\obj\Debug\POS_second_idea.Registration.resources
+C:\Users\Precious\documents\visual studio 2015\Projects\POS second idea\POS second idea\obj\Debug\POS_second_idea.UserReg.resources
+C:\Users\Precious\documents\visual studio 2015\Projects\POS second idea\POS second idea\obj\Debug\POS_second_idea.Dash_Board.resources
+C:\Users\Precious\documents\visual studio 2015\Projects\POS second idea\POS second idea\obj\Debug\POS_second_idea.LoadingPage.resources
+C:\Users\Precious\documents\visual studio 2015\Projects\POS second idea\POS second idea\obj\Debug\POS_second_idea.UserAccount.resources
+C:\Users\Precious\documents\visual studio 2015\Projects\POS second idea\POS second idea\obj\Debug\POS_second_idea.Employees.resources
+C:\Users\Precious\documents\visual studio 2015\Projects\POS second idea\POS second idea\obj\Debug\POS_second_idea.Supplier.resources
+C:\Users\Precious\documents\visual studio 2015\Projects\POS second idea\POS second idea\obj\Debug\POS_second_idea.Products.resources
+C:\Users\Precious\documents\visual studio 2015\Projects\POS second idea\POS second idea\obj\Debug\POS_second_idea.Product_Info.resources
+C:\Users\Precious\Documents\Precious Items or files\VB.net projects\POS second idea\POS second idea\bin\Debug\POS second idea.exe.config
+C:\Users\Precious\Documents\Precious Items or files\VB.net projects\POS second idea\POS second idea\obj\Debug\POS second idea.exe
+C:\Users\Precious\Documents\Precious Items or files\VB.net projects\POS second idea\POS second idea\obj\Debug\POS second idea.xml
+C:\Users\Precious\Documents\Precious Items or files\VB.net projects\POS second idea\POS second idea\obj\Debug\POS second idea.pdb
+C:\Users\Precious\Documents\Precious Items or files\VB.net projects\POS second idea\POS second idea\bin\Debug\POS second idea.exe
+C:\Users\Precious\Documents\Precious Items or files\VB.net projects\POS second idea\POS second idea\bin\Debug\POS second idea.pdb
+C:\Users\Precious\Documents\Precious Items or files\VB.net projects\POS second idea\POS second idea\bin\Debug\POS second idea.xml
+C:\Users\Precious\Documents\Precious Items or files\VB.net projects\POS second idea\POS second idea\bin\Debug\Bunifu.Licensing.dll
+C:\Users\Precious\Documents\Precious Items or files\VB.net projects\POS second idea\POS second idea\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+C:\Users\Precious\Documents\Precious Items or files\VB.net projects\POS second idea\POS second idea\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+C:\Users\Precious\Documents\Precious Items or files\VB.net projects\POS second idea\POS second idea\obj\Debug\POS second idea.vbprojResolveAssemblyReference.cache
+C:\Users\Precious\Documents\Precious Items or files\VB.net projects\POS second idea\POS second idea\obj\Debug\POS_second_idea.Dash_Board.resources
+C:\Users\Precious\Documents\Precious Items or files\VB.net projects\POS second idea\POS second idea\obj\Debug\POS_second_idea.Dashboard2.resources
+C:\Users\Precious\Documents\Precious Items or files\VB.net projects\POS second idea\POS second idea\obj\Debug\POS_second_idea.Employees.resources
+C:\Users\Precious\Documents\Precious Items or files\VB.net projects\POS second idea\POS second idea\obj\Debug\POS_second_idea.Form1.resources
+C:\Users\Precious\Documents\Precious Items or files\VB.net projects\POS second idea\POS second idea\obj\Debug\POS_second_idea.LoadingPage.resources
+C:\Users\Precious\Documents\Precious Items or files\VB.net projects\POS second idea\POS second idea\obj\Debug\POS_second_idea.Login.resources
+C:\Users\Precious\Documents\Precious Items or files\VB.net projects\POS second idea\POS second idea\obj\Debug\POS_second_idea.Resources.resources
+C:\Users\Precious\Documents\Precious Items or files\VB.net projects\POS second idea\POS second idea\obj\Debug\POS_second_idea.Product_Info.resources
+C:\Users\Precious\Documents\Precious Items or files\VB.net projects\POS second idea\POS second idea\obj\Debug\POS_second_idea.Products.resources
+C:\Users\Precious\Documents\Precious Items or files\VB.net projects\POS second idea\POS second idea\obj\Debug\POS_second_idea.Registration.resources
+C:\Users\Precious\Documents\Precious Items or files\VB.net projects\POS second idea\POS second idea\obj\Debug\POS_second_idea.Supplier.resources
+C:\Users\Precious\Documents\Precious Items or files\VB.net projects\POS second idea\POS second idea\obj\Debug\POS_second_idea.UserAccount.resources
+C:\Users\Precious\Documents\Precious Items or files\VB.net projects\POS second idea\POS second idea\obj\Debug\POS_second_idea.UserReg.resources
+C:\Users\Precious\Documents\Precious Items or files\VB.net projects\POS second idea\POS second idea\obj\Debug\POS second idea.vbproj.GenerateResource.Cache
+C:\Users\Precious\Documents\Precious Items or files\VB.net projects\POS second idea\POS second idea\obj\Debug\POS_second_idea.product_Info2.resources
+C:\Users\Precious\Documents\Precious Items or files\VB.net projects\POS second idea\POS second idea\obj\Debug\POS_second_idea.UserReg2.resources
+C:\Users\Precious\Documents\Precious Items or files\VB.net projects\POS second idea\POS second idea\bin\Debug\pointOfSales.exe.config
+C:\Users\Precious\Documents\Precious Items or files\VB.net projects\POS second idea\POS second idea\obj\Debug\pointOfSales.TrustInfo.xml
+C:\Users\Precious\Documents\Precious Items or files\VB.net projects\POS second idea\POS second idea\obj\Debug\pointOfSales.exe
+C:\Users\Precious\Documents\Precious Items or files\VB.net projects\POS second idea\POS second idea\obj\Debug\pointOfSales.xml
+C:\Users\Precious\Documents\Precious Items or files\VB.net projects\POS second idea\POS second idea\obj\Debug\pointOfSales.pdb
+C:\Users\Precious\Documents\Visual Studio 2015\Projects\POS second idea\POS second idea\obj\Debug\pointOfSales.exe
+C:\Users\Precious\Documents\Visual Studio 2015\Projects\POS second idea\POS second idea\obj\Debug\pointOfSales.xml
+C:\Users\Precious\Documents\Visual Studio 2015\Projects\POS second idea\POS second idea\obj\Debug\pointOfSales.pdb
+C:\Users\Precious\Documents\Visual Studio 2015\Projects\POS second idea\POS second idea\obj\Debug\POS_second_idea.product_Info2.resources
+C:\Users\Precious\Documents\Visual Studio 2015\Projects\POS second idea\POS second idea\obj\Debug\POS_second_idea.UserReg2.resources
+C:\Users\Precious\Documents\Visual Studio 2015\Projects\POS second idea\POS second idea\obj\Debug\pointOfSales.TrustInfo.xml
+C:\Users\Precious\Documents\Visual Studio 2015\Projects\POS second idea\POS second idea\obj\Debug\pointOfSales.exe.manifest
+C:\Users\Precious\Documents\Visual Studio 2015\Projects\POS second idea\POS second idea\obj\Debug\pointOfSales.application
+C:\Users\Precious\Desktop\point_of_sales_software\pointOfSales.exe.config
+C:\Users\Precious\Desktop\point_of_sales_software\pointOfSales.exe.manifest
+C:\Users\Precious\Desktop\point_of_sales_software\pointOfSales.application
+C:\Users\Precious\Desktop\point_of_sales_software\pointOfSales.exe
+C:\Users\Precious\Desktop\point_of_sales_software\pointOfSales.pdb
+C:\Users\Precious\Desktop\point_of_sales_software\pointOfSales.xml
+C:\Users\Precious\Documents\Visual Studio 2015\pointOfSales.exe.config
+C:\Users\Precious\Documents\Visual Studio 2015\pointOfSales.exe.manifest
+C:\Users\Precious\Documents\Visual Studio 2015\pointOfSales.application
+C:\Users\Precious\Documents\Visual Studio 2015\pointOfSales.exe
+C:\Users\Precious\Documents\Visual Studio 2015\pointOfSales.pdb
+C:\Users\Precious\Documents\Visual Studio 2015\pointOfSales.xml
